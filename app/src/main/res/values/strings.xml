@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Agrtech</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_draw">Draw</string>
+    <string name="maps_finish">Finish</string>
+    <string name="maps_drawing_mode">Pointing</string>
+    <string name="maps_incorrect_bounds">Incorrect bounds</string>
+    <string name="maps_watering_level_format">Watering level: %d%%</string>
+</resources>
